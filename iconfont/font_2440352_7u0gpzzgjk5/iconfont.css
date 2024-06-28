@@ -1,8 +1,8 @@
 @font-face {
   font-family: "iconfont"; /* Project id 2440352 */
-  src: url('iconfont.woff2?t=1672300998798') format('woff2'),
-       url('iconfont.woff?t=1672300998798') format('woff'),
-       url('iconfont.ttf?t=1672300998798') format('truetype');
+  src: url('iconfont.woff2?t=1719539729115') format('woff2'),
+       url('iconfont.woff?t=1719539729115') format('woff'),
+       url('iconfont.ttf?t=1719539729115') format('truetype');
 }
 
 .iconfont {
@@ -11,6 +11,10 @@
   font-style: normal;
   -webkit-font-smoothing: antialiased;
   -moz-osx-font-smoothing: grayscale;
+}
+
+.icon-bluesky:before {
+  content: "\e672";
 }
 
 .icon-mastodon:before {
