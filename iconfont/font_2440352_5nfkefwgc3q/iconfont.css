@@ -1,8 +1,8 @@
 @font-face {
   font-family: "iconfont"; /* Project id 2440352 */
-  src: url('iconfont.woff2?t=1719539729115') format('woff2'),
-       url('iconfont.woff?t=1719539729115') format('woff'),
-       url('iconfont.ttf?t=1719539729115') format('truetype');
+  src: url('iconfont.woff2?t=1731925734927') format('woff2'),
+       url('iconfont.woff?t=1731925734927') format('woff'),
+       url('iconfont.ttf?t=1731925734927') format('truetype');
 }
 
 .iconfont {
@@ -11,6 +11,18 @@
   font-style: normal;
   -webkit-font-smoothing: antialiased;
   -moz-osx-font-smoothing: grayscale;
+}
+
+.icon-Close:before {
+  content: "\e609";
+}
+
+.icon-threads-fill:before {
+  content: "\eae4";
+}
+
+.icon-reddit:before {
+  content: "\e8ca";
 }
 
 .icon-bluesky:before {

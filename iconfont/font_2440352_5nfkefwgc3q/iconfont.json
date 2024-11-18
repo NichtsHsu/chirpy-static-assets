@@ -6,6 +6,27 @@
   "description": "",
   "glyphs": [
     {
+      "icon_id": "1336062",
+      "name": "Close",
+      "font_class": "Close",
+      "unicode": "e609",
+      "unicode_decimal": 58889
+    },
+    {
+      "icon_id": "39249159",
+      "name": "threads-fill",
+      "font_class": "threads-fill",
+      "unicode": "eae4",
+      "unicode_decimal": 60132
+    },
+    {
+      "icon_id": "40061102",
+      "name": "reddit",
+      "font_class": "reddit",
+      "unicode": "e8ca",
+      "unicode_decimal": 59594
+    },
+    {
       "icon_id": "40016564",
       "name": "bluesky",
       "font_class": "bluesky",
